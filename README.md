@@ -18,6 +18,11 @@ Run it from your ide or in terminal by using:
 python main.py
 # make sure all the other files are in the same folder/directory
 ```
+## Do you want to try it?
+You can run it on replit --> [replit](https://replit.com/@Reveal/PYHangman)
+![](gif.gif)
+[window manager](https://github.com/manilarome/the-glorious-dotfiles)
+
 ### Levels
 1. Easy(with defintion)(1 hint)
 2. Medium(1 letter revealed)(3 hints)

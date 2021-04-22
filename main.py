@@ -1,8 +1,8 @@
 # Make sure all the files are in the same folder/directory
 #####
-# Python Hangman Game by TheRealMitch
+# Python Hangman Game by R3veal
 #####
-# Follow me on Github: https://github.com/TheRealMitch
+# Follow me on Github: https://github.com/R3veal
 #####
 # Have fun
 #####

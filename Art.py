@@ -1,6 +1,6 @@
 # Some art for the hangman game
 #####
-# Follow me on Github: https://github.com/TheRealMitch
+# Follow me on Github: https://github.com/R3veal
 #####
 
 

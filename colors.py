@@ -1,8 +1,8 @@
 # Ability to change the terminal color.
 #####
-# Check this on: https://github.com/TheRealMitch/Python-Colors
+# Check this on: https://github.com/R3veal/PYColors
 #####
-# Follow me on Github: https://github.com/TheRealMitch
+# Follow me on Github: https://github.com/R3veal
 ##### :] 
 
 

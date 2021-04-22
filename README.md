@@ -34,5 +34,5 @@ You can run it on replit --> [replit](https://replit.com/@Reveal/PYHangman)
 ---
 ### Support me:
 **Follow me**:
-- [github](https://github.com/TheRealMitch)
+- [github](https://github.com/R3veal)
 - **I love singing**: [youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

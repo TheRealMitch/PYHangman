@@ -1,6 +1,6 @@
 # Detect the os and clear the terminal
 #####
-#Follow me on Github: https://github.com/TheRealMitch
+#Follow me on Github: https://github.com/R3veal
 #####
 
 import subprocess

@@ -19,7 +19,7 @@ python main.py
 # make sure all the other files are in the same folder/directory
 ```
 ## Do you want to try it?
-You can run it on replit --> [replit](https://replit.com/@Reveal/PYHangman)
+You can run it on replit --> [replit](https://replit.com/@R3veal/PYHangman)
 ![](gif.gif)
 [window manager](https://github.com/manilarome/the-glorious-dotfiles)
 
